@@ -71,7 +71,7 @@ nav ul li a:hover {
   overflow: hidden;
 }
 
-.dropdown .dropbtn {
+.dropdown {
   font-size: 16px;  
   border: none;
   outline: none;
@@ -85,7 +85,7 @@ nav ul li a:hover {
   transition: all 0.3s ease;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar a:hover, .dropdown:hover  {
   color: #8BC34A;
 }
 
